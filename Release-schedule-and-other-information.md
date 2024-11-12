@@ -28,10 +28,10 @@ Please see the rota below for the expected release dates. We expect QA testing t
 | June      | 5 June           | Jay Vivarekar (**@JayVivarekar**) | Kanupriya (**@Kanupriyaoppia**) & Camila (**@cam-pinheiro**) |
 | July      | 3 July           | Hitesh Tomar (**@lkbhitesh07**)   | Sylvia (**@sesundor**)                                       |
 | August    | 7 August         | Kevin (**@kevintab95**)           | Kanupriya (**@Kanupriyaoppia**)                              |
-| September | 4 September      | Hasitha (**@chris7716**)          | Camila (**@cam-pinheiro**)                                   |
-| October   | 2 October        | Jay Vivarekar (**@JayVivarekar**) | Sylvia (**@sesundor**)                                       |
-| November  | 6 November       | Hitesh Tomar (**@lkbhitesh07**)   | Kanupriya (**@Kanupriyaoppia**)                              |
-| December  | 4 November       | Kevin (**@kevintab95**)           | Camila (**@cam-pinheiro**)                                   |
+| September | 4 September      | Hasitha (**@chris7716**)          | Kanupriya (**@Kanupriyaoppia**)                              |
+| October   | 2 October        | Jay Vivarekar (**@JayVivarekar**) | Camila (**@cam-pinheiro**)                                   |
+| November  | 12 November      | Kevin (**@kevintab95**)           | Kanupriya (**@Kanupriyaoppia**) & Andy (**@andyzhu7568**)    |
+| December  | 4 December       | Kevin (**@kevintab95**)           | Sylvia (**@sesundor**)                                       |
 
 
 ## Responsibilities of the release coordinator
